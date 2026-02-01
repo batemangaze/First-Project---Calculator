@@ -39,7 +39,7 @@ This is my first Python project, created to practice core programming concepts.
 
 3. Run the program:
    ```bash
-   python calculator.py
+   python main.py
    ```
 
 ---
